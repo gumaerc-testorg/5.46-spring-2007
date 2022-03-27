@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 71dedb45-c16a-978b-fee8-2c0cdb4bb2e4
 resourcetype: Document
 title: 546_p1_spectra.pdf
 uid: 0fbd9de5-d7ec-ed3a-278c-b16dbfa6c827

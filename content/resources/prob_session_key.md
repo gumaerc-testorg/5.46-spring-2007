@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 562f2ae3-6500-aeae-edcf-1357fb35166b
 resourcetype: Document
 title: prob_session_key.pdf
 uid: c17e79cc-d460-03e8-8091-92a5ca539110
