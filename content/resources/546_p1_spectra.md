@@ -5,6 +5,7 @@ file: /courses/5-46-organic-structure-determination-spring-2007/0fbd9de5d7eced3a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 546_p1_spectra.pdf
 uid: 0fbd9de5-d7ec-ed3a-278c-b16dbfa6c827
 ---
 Supporting Spectra for a sample project.
-
