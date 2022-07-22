@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the term project and sample projects
+  from students who took this course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 71dedb45-c16a-978b-fee8-2c0cdb4bb2e4
 ---
@@ -23,8 +28,8 @@ Student Projects
 
 Below are sample projects from students who took this course.
 
-*   Student Project #1 ([PDF]({{< baseurl >}}/resources/546_project1)) and Supporting Spectra ([PDF]({{< baseurl >}}/resources/546_p1_spectra))  
+*   Student Project #1 ({{% resource_link fb181aa6-c699-cfe6-2a23-e74b4d802dd3 "PDF" %}}) and Supporting Spectra ({{% resource_link 0fbd9de5-d7ec-ed3a-278c-b16dbfa6c827 "PDF" %}})  
     (Courtesy of Christopher Morten and Brian Sparling. Used with permission.)  
      
-*   Student Project #2 ([PDF]({{< baseurl >}}/resources/546_project2))  
+*   Student Project #2 ({{% resource_link 90c5f9c0-1234-5e30-78e1-36bd1a0ff7fc "PDF" %}})  
     (Courtesy of Jeewoo Lim and Brett VanVeller. Used with permission.)
