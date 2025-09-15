@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-46-organic-structure-determination-spring-2007/fecdeb8f48f0148f726e7b6c9c15c0ea_l02_handout.pdf
+file: /ol-ocw-studio-app/courses/5-46-organic-structure-determination-spring-2007/fecdeb8f48f0148f726e7b6c9c15c0ea_l02_handout.pdf
+file_size: 212900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

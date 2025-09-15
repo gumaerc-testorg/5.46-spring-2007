@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: Application of NMR Techniques to the Structural
   Determination of Caryophyllene Oxide (Unknown #92).'
-file: /courses/5-46-organic-structure-determination-spring-2007/fb181aa6c699cfe62a23e74b4d802dd3_546_project1.pdf
+file: /ol-ocw-studio-app/courses/5-46-organic-structure-determination-spring-2007/fb181aa6c699cfe62a23e74b4d802dd3_546_project1.pdf
+file_size: 1373439
 file_type: application/pdf
 learning_resource_types:
 - Projects

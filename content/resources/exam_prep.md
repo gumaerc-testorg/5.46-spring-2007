@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Exam preparation slides containing a summary of major points.
-file: /courses/5-46-organic-structure-determination-spring-2007/1ccb1483e448f09e49fcc665d224d6b1_exam_prep.pdf
+file: /ol-ocw-studio-app/courses/5-46-organic-structure-determination-spring-2007/1ccb1483e448f09e49fcc665d224d6b1_exam_prep.pdf
+file_size: 23916
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

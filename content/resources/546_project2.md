@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: Compound 96.'
-file: /courses/5-46-organic-structure-determination-spring-2007/90c5f9c012345e3078e136bd1a0ff7fc_546_project2.pdf
+file: /ol-ocw-studio-app/courses/5-46-organic-structure-determination-spring-2007/90c5f9c012345e3078e136bd1a0ff7fc_546_project2.pdf
+file_size: 448144
 file_type: application/pdf
 learning_resource_types:
 - Projects
